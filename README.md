@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning for become a FullStack Developer<br>🫴 I'm currently involved in an association named Yeeso for support women in the tech world
+📚 I'm currently in working-study program as backend Developper with Decathlon Digitals and CESI<br>🌱 I'm currently learning on my free time for become a FullStack Developer<br>🫴 I'm currently involved in an association named Yeeso for support women in the tech world
 
 
 ## 🌐 Socials:
